@@ -33,8 +33,8 @@ An automated bot that plays the Solitaire card game on Android devices using sim
    ```bash
    pip install -r requirements.txt
 4. **Prepare your Android phone**
-   - Connect your phone to the PC via USB
    - Enable Developer Options and USB Debugging
+   - Connect your phone to the PC via USB
 
 5. Install the Solitaire game on your phone
    [Solitaire - Classic Card Games (Google Play Store)](https://play.google.com/store/apps/details?id=com.smilerlee.klondike&hl=en)
